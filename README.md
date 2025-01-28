@@ -15,6 +15,6 @@ This project leverages artificial intelligence (AI) and natural language process
 This project focuses on using Optical Character Recognition (OCR) technology to detect and analyze fake certificates. By extracting text and analyzing it against predefined templates and validation rules, the system ensures the authenticity of certificates in an automated and efficient manner.https://github.com/Monisha125/Analytics-of-fake-certificate-using-OCR
 
 ## Contact me
-Email: monishasathish511@gmail.com
-LinkedIn: https://www.linkedin.com/in/monisha-sathish-863916257
-Github: https://github.com/Monisha125
+- Email: monishasathish511@gmail.com
+- LinkedIn: https://www.linkedin.com/in/monisha-sathish-863916257
+- Github: https://github.com/Monisha125
