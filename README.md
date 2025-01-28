@@ -14,4 +14,4 @@ This project focuses on using Optical Character Recognition (OCR) technology to 
 ## Contact me
 Email: monishasathish511@gmail.com
 LinkedIn: 
-Github: 
+Github: https://github.com/Monisha125
