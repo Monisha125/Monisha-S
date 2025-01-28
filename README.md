@@ -6,7 +6,7 @@ I am Monisha S  pursuing third-year IT engineering student with a passion for so
 This project involved the design and development of a rule-based chatbot tailored for the Department of Justice (DOJ). The chatbot was built to handle frequently asked questions and streamline user interactions by providing quick, accurate, and predefined responses.https://github.com/Monisha125/Chatbot-for-DoJ/blob/main/README.md
 
 ## AI social sentiment stock prediction
-This project leverages artificial intelligence (AI) and natural language processing (NLP) to analyze social media sentiment and predict stock market trends. The goal is to bridge the gap between social sentiment and financial decision-making by identifying how public opinion influences stock price movements.
+This project leverages artificial intelligence (AI) and natural language processing (NLP) to analyze social media sentiment and predict stock market trends. The goal is to bridge the gap between social sentiment and financial decision-making by identifying how public opinion influences stock price movements.https://github.com/Monisha125/AI-Social-Sentiment-Stock-Predictor
 
 ## Analatics of Fake certificate using OCR
 This project focuses on using Optical Character Recognition (OCR) technology to detect and analyze fake certificates. By extracting text and analyzing it against predefined templates and validation rules, the system ensures the authenticity of certificates in an automated and efficient manner.https://github.com/Monisha125/Analytics-of-fake-certificate-using-OCR
